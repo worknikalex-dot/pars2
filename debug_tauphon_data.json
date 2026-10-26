@@ -1,0 +1,6 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {"type": "Feature", "id": 539, "geometry": {"type": "Point", "coordinates": [56.0235,92.8226]}, "properties": { "iconContent": "от 999 999,00 руб.", "balloonContentHeader": "<div style='font-size: 100%'> Аптека &laquo;Дешевая аптека&raquo;</div>", "balloonContentBody": "<a href=\"karta.php?encoding=utf8&apteka=539\" target=\"_blank\" style=\"font-size: 100%;color:#000;text-decoration:none;border-bottom:1px dashed #000\">Красноярск Железнодорожный Свободный 29<br/><a href=\"tel:8-391-988-99-67\">8-391-988-99-67</a> <div style='font-size: 100%'>Ежедневно 08:00–22:00 </div></a>", "clusterCaption": "Дешевая аптека", "iconCaption": "Дешевая аптека"}}
+    ]
+}
